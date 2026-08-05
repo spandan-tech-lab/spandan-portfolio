@@ -1,0 +1,10 @@
+{
+  "name": "FlowDesk",
+  "short_name": "FlowDesk",
+  "description": "An original browser-based desktop environment.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b101a",
+  "theme_color": "#101522",
+  "icons": []
+}
