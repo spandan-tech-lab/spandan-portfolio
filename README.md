@@ -1,4 +1,4 @@
-# FlowDesk 🖥️
+# FlowDesk 
 
 A polished, browser-based desktop environment built from scratch with HTML, CSS and JavaScript.
 
@@ -8,17 +8,17 @@ I wanted to explore what happens when a web application is designed like a deskt
 
 ## Features
 
-- 🪟 Draggable desktop windows
-- 🚀 App launcher
-- 📊 System dashboard UI
-- 📝 Persistent Notes app using localStorage
-- 📁 File manager interface
-- 🌐 Browser workspace
-- ⚙️ Settings and glass-effect toggle
-- 🕐 Live clock and date
-- ⌨️ Ctrl/Cmd + K launcher shortcut
-- 📱 Responsive layout for smaller screens
-- ✨ Glassmorphism-inspired interface
+-  Draggable desktop windows
+-  App launcher
+-  System dashboard UI
+-  Persistent Notes app using localStorage
+-  File manager interface
+-  Browser workspace
+-  Settings and glass-effect toggle
+-  Live clock and date
+-  Ctrl/Cmd + K launcher shortcut
+-  Responsive layout for smaller screens
+-  Glassmorphism-inspired interface
 
 ## Tech stack
 
