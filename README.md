@@ -1,4 +1,4 @@
-# FlowDesk 🖥️
+# FlowDesk 
 
 > **A browser-based desktop environment built from scratch with HTML, CSS and vanilla JavaScript.**
 
@@ -6,24 +6,24 @@ FlowDesk explores a simple question: **what if a web app behaved more like a des
 
 It combines movable and resizable windows, an app launcher, persistent notes, a system dashboard, search, keyboard controls and responsive UI into one dependency-free project.
 
-## ✨ Highlights
+##  Highlights
 
-- 🪟 Draggable, resizable windows with focus management
-- 🚀 App launcher with live filtering
-- 📊 Dynamic system dashboard prototype
-- 📝 Persistent Notes powered by `localStorage`
-- 📁 File-manager interface
-- 🌐 Browser workspace with search handoff
-- ⚙️ Personalization controls
-- 🕐 Live clock and date
-- ⌨️ `Ctrl/Cmd + K` launcher shortcut
-- 🔔 Lightweight toast notifications
-- 📱 Responsive desktop-to-mobile layout
-- ♿ Keyboard-friendly controls and ARIA labels
-- 📦 PWA manifest included
-- 🧩 Zero external dependencies
+-  Draggable, resizable windows with focus management
+-  App launcher with live filtering
+-  Dynamic system dashboard prototype
+-  Persistent Notes powered by `localStorage`
+-  File-manager interface
+-  Browser workspace with search handoff
+-  Personalization controls
+-  Live clock and date
+-  `Ctrl/Cmd + K` launcher shortcut
+-  Lightweight toast notifications
+-  Responsive desktop-to-mobile layout
+-  Keyboard-friendly controls and ARIA labels
+-  PWA manifest included
+-  Zero external dependencies
 
-## 🧠 Engineering focus
+## Engineering focus
 
 This project is intentionally built without a framework so the underlying browser APIs and UI mechanics stay visible.
 
@@ -50,7 +50,7 @@ Window manager
 
 The Notes app stores its content locally in the browser using `localStorage`, so a refresh does not immediately wipe the workspace.
 
-## 🛠️ Tech stack
+##🛠️ Tech stack
 
 | Technology | Purpose |
 |---|---|
@@ -60,7 +60,7 @@ The Notes app stores its content locally in the browser using `localStorage`, so
 | Web Storage API | Local note persistence |
 | Web App Manifest | Installable-app foundation |
 
-## ▶️ Run locally
+## Run locally
 
 No package manager, build system or dependencies are required.
 
@@ -69,13 +69,13 @@ No package manager, build system or dependencies are required.
 3. Press **Ctrl/Cmd + K** to open the app launcher.
 4. Drag or resize windows and try the Notes app.
 
-## 🎯 Why I built it
+## Why I built it
 
 I wanted a project that goes beyond a static portfolio page and demonstrates **interaction design, browser APIs, responsive UI engineering and iterative problem solving**.
 
 The project is also an experiment in designing a desktop-class experience for the web while keeping the implementation small enough to understand from end to end.
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] Draggable windows
 - [x] Resizable windows
@@ -92,7 +92,7 @@ The project is also an experiment in designing a desktop-class experience for th
 - [ ] Automated UI testing
 - [ ] Performance profiling and optimization
 
-## 📐 Design principles
+## Design principles
 
 **Originality:** FlowDesk is an original concept. It does not use Samsung proprietary branding, assets or code.
 
@@ -100,7 +100,7 @@ The project is also an experiment in designing a desktop-class experience for th
 
 **Clarity:** The UI is designed to feel familiar without reproducing another company's product interface.
 
-## 👨‍💻 Author
+## Author
 
 **Spandan — `spandan-tech-lab`**
 
